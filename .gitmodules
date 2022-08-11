@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-sam"]
 	path = themes/hugo-theme-sam
 	url = https://github.com/Pagutri/hugo-theme-sam
+[submodule "public"]
+	path = public
+	url = https://github.com/Pagutri/Hugo_pages01
